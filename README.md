@@ -1,11 +1,6 @@
 ## Presto-FoodOrderingAndDeliveryApp
 A comprehensive food delivery platform built with .NET Core Web API, .NET MVC, and Angular, featuring multiple user roles (Admin, Restaurant, Customer, DeliveryMan) and real-time communication capabilities.
 
-#Languages:
-   •  .NET Core Web API.
-   •  .NET MVC.
-   •  Angular.
-
 #Architecture & Design Patterns
 
    •	Dependency Injection Pattern: The application extensively uses interfaces for both repositories and services - this architectural approach is called the Interface Segregation Principle and Dependency Inversion Principle from SOLID principles. 
